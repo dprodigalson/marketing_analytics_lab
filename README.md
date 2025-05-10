@@ -1,4 +1,4 @@
-# 🐍 Marketing Analytics Lab Project Setup (VS Code + Python + Jupyter)
+# 🐍 Marketing Analytics Lab Setup (VS Code + Python + Jupyter)
 
 This guide helps you set up your development environment for running this project using Visual Studio Code, Python virtual environments, and Jupyter notebooks.
 
